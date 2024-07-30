@@ -28,13 +28,7 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
   
   <br>
-  <img src="https://img.shields.io/badge/AWS Secrets Manager-DD344C?style=flat&logo=awssecretsmanager&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon RDS-527FFF1?style=flat&logo=amazonrds&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Amazon Route 53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" />
 </div>
 <br>
 <div align=center>
