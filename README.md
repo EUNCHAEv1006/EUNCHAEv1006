@@ -10,19 +10,22 @@
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+	<br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker Compose-4285F4?style=flat&logo=&logoColor=white" />
+	<br>
+  <img src="https://img.shields.io/badge/JPA-DD282E?style=flat&logo=&logoColor=white" />
+  <img src="https://img.shields.io/badge/QueryDSL-39729E?style=flat&logo=&logoColor=white" />
+	<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/JPA-DD282E?style=flat&logo=&logoColor=white" />
-  <img src="https://img.shields.io/badge/QueryDSL-39729E?style=flat&logo=&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker Compose-4285F4?style=flat&logo=&logoColor=white" />
+  
   <br>
   <img src="https://img.shields.io/badge/AWS Secrets Manager-DD344C?style=flat&logo=awssecretsmanager&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white" />
